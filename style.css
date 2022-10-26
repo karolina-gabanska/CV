@@ -1,12 +1,19 @@
+body {
+    font-family: Arial;
+}
+
 h2 {
     font-size: 28px;
 }
+
 h1 {
     font-size: 36px;
+   
 }
 span {
     color: grey;
 }
+
 img {
     width: 140px; height: 165px;
 }
