@@ -27,3 +27,7 @@ section {
     margin-left: 110px;
     margin: 0 auto;
 }
+header {
+    display:flex;
+    align-items:center;
+}
